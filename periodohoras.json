@@ -1,0 +1,6 @@
+{ "_id" : { "$oid" : "5f90e33e92d591001644c033" }, "periodo" : "20:30 às 20:30", "valorPeriodo" : 125.3, "clienteP" : { "$oid" : "5f90e33492d591001644c032" }, "__v" : 0 }
+{ "_id" : { "$oid" : "5f90ec72ed3cd50016bb92d9" }, "periodo" : "10:10 às 20:20", "valorPeriodo" : 30, "clienteP" : { "$oid" : "5f90ec64ed3cd50016bb92d8" }, "__v" : 0 }
+{ "_id" : { "$oid" : "5f91e998ac0a1800166bf900" }, "periodo" : "08:00 às 12:00", "valorPeriodo" : 125.3, "clienteP" : { "$oid" : "5f90e33492d591001644c032" }, "__v" : 0 }
+{ "_id" : { "$oid" : "5f91ea24ac0a1800166bf903" }, "periodo" : "08:00 às 13:00", "valorPeriodo" : 80, "clienteP" : { "$oid" : "5f91ea11ac0a1800166bf902" }, "__v" : 0 }
+{ "_id" : { "$oid" : "5f961d1b81a3880016483a49" }, "periodo" : "12:00 às 18:00", "valorPeriodo" : 100, "clienteP" : { "$oid" : "5f961c7281a3880016483a46" }, "__v" : 0 }
+{ "_id" : { "$oid" : "5f96cbeb81a3880016483a4b" }, "periodo" : "18:00 às 22:00", "valorPeriodo" : 125.3, "clienteP" : { "$oid" : "5f961c7281a3880016483a46" }, "__v" : 0 }
